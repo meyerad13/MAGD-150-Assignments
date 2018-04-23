@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Anthony Meyer
+## MAGD150
+
+
+### Assignment 1
+##### [Click here to view code for Assignment 1](https://github.com/meyerad13/MAGD-150-Assignments/blob/gh-pages/s18magd150lab01_meyer/s18magd150lab01_meyer.pde)
+
+##### In Assignment 1 we were required to use some of the shapes that we had learned throughout the first week of class. Using shapes such as rectangles, ellipses, lines, and points, I chose to draw a picture of a cow being abducted by a spaceship. We were also required to use different rectMode's and ellipseMode's.
 
 You can use the [editor on GitHub](https://github.com/meyerad13/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
